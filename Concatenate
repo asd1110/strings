@@ -1,0 +1,9 @@
+class Concatenate{
+public static void main(String args[]){
+String s1="Mark";
+String s2="kate";
+String x=concat("mark").concat("Kate");
+return x;
+}
+
+}
